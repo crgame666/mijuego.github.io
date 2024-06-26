@@ -1,0 +1,9 @@
+body {
+    background-color:rgb(54, 54, 54);
+}
+img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    cursor: grab;
+}
